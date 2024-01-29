@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bai1/Bai1.iml" filepath="$PROJECT_DIR$/Bai1/Bai1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bai11/Bai11.iml" filepath="$PROJECT_DIR$/Bai11/Bai11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bai12/Bai12.iml" filepath="$PROJECT_DIR$/Bai12/Bai12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bai13/Bai13.iml" filepath="$PROJECT_DIR$/Bai13/Bai13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bai14/Bai14.iml" filepath="$PROJECT_DIR$/Bai14/Bai14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bai15/Bai15.iml" filepath="$PROJECT_DIR$/Bai15/Bai15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bai2/Bai2.iml" filepath="$PROJECT_DIR$/Bai2/Bai2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bai3/Bai3.iml" filepath="$PROJECT_DIR$/Bai3/Bai3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bai4/Bai4.iml" filepath="$PROJECT_DIR$/Bai4/Bai4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bai5/Bai5.iml" filepath="$PROJECT_DIR$/Bai5/Bai5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bai7/Bai7.iml" filepath="$PROJECT_DIR$/Bai7/Bai7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bai8/Bai8.iml" filepath="$PROJECT_DIR$/Bai8/Bai8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bai9/Bai9.iml" filepath="$PROJECT_DIR$/Bai9/Bai9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ss13.iml" filepath="$PROJECT_DIR$/.idea/ss13.iml" />
+    </modules>
+  </component>
+</project>
